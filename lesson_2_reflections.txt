@@ -3,3 +3,6 @@ I'm not sure why you'll do this. oops
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It's the middle ground, like a work in progress.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Add all necessary files to the staging area and then commit.

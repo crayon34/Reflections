@@ -8,3 +8,6 @@ Describe the differences between forks, clones, and branches. When would you use
 Forking allows me to copy a repository from somewhere on github to another place on github. Forking is useful when I'm getting repositories from others' accounts.
 Clones are copies of repositories that do not have to be on github; for example, this is useful when I'm cloning a repository onto my local device from github.
 Finally, branches are different versions of one repository, usually created to experiment with different changes.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+The benefit of having a copy of the last known state of the remote stored locally is that you can work with the latest version even when you are offline.

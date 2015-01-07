@@ -1,31 +1,37 @@
-When would you want to use a remote repository rather than keeping all your work local?
-  When you want other people to look at your work and help you work on it.
+When would you want to use a remote repository rather than keeping all
+your work local?
+  When you want other people to look at your work and help you work on
+  it.
 
-Why might you want to always pull changes manually rather than having Git automatically
-stay up-to-date with your remote repository?
-  You might not want some changes made by others on GitHub, so manually pulling changes
-  allows you to pick and choose the changes you want.
+Why might you want to always pull changes manually rather than having
+Git automatically stay up-to-date with your remote repository?
+  You might not want some changes made by others on GitHub, so manually
+  pulling changes allows you to pick and choose the changes you want.
 
-Describe the differences between forks, clones, and branches. When would you use one
-instead of another?
-  Forking allows me to copy a repository from somewhere on github to another place on
-  github. Forking is useful when I'm getting repositories from others' accounts. Clones
-  are copies of repositories that do not have to be on github; for example, this is
-  useful when I'm cloning a repository onto my local device from github. Finally,
-  branches are different versions of one repository, usually created to experiment with
-  different changes.
+Describe the differences between forks, clones, and branches. When would
+you use oneinstead of another?
+  Forking allows me to copy a repository from somewhere on github to
+  another place on github. Forking is useful when I'm getting repositories
+  from others' accounts. Clones are copies of repositories that do not 
+  have to be on github; for example, this is useful when I'm cloning a
+  repository onto my local device from github. Finally, branches are
+  different versions of one repository, usually created to experiment
+  with different changes.
 
-What is the benefit of having a copy of the last known state of the remote stored locally?
-  The benefit of having a copy of the last known state of the remote stored locally is
-  that you can work with the latest version even when you are offline.
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+  The benefit of having a copy of the last known state of the remote stored
+  locally is that you can work with the latest version even when you are
+  offline.
 
-How would you collaborate without using Git or GitHub? What would be easier, and what
-would be harder?
-  Without using Git or GitHub, I would have to send my files manually to my partners
-  for every change I make, with specific notes on what I changed. That would be more
-  time-consuming and painstaking.
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+  Without using Git or GitHub, I would have to send my files manually to
+  my partners for every change I make, with specific notes on what I
+  changed. That would be more time-consuming and painstaking.
 
-When would you want to make changes in a separate branch rather than directly in master?
-What benefits does each approach have?
-  When I'm trying to make multiple changes at once, it is more helpful to make each change
-  in a separate branch rather than putting all of them in master at once.
+When would you want to make changes in a separate branch rather than
+directly in master? What benefits does each approach have?
+  When I'm trying to make multiple changes at once, it is more helpful
+  to make each change in a separate branch rather than putting all of
+  them in master at once.
